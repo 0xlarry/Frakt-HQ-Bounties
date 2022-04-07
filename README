@@ -7,7 +7,7 @@ Goals for Bounty Program
 Bounty Participation
 To start, the bounties will be for small tools that directly add value to the project and community. * The first wave of bounties will not require any Web3 development experience *, they will require Web2 development experience. More bounties will be added as other are completed. They will vary in complexity as time goes on and the more challenging ones will warrant a larger reward. 
 
-To participate in the bounty program, join the #builders-guild on Discord and ask @0xLarry#9659 for the Builder role. Once the Builder role is acquired we can review any submission. To submit a solution to a bounty, create a merge request on the respective branch. The development Team at FraktHQ will review the submission and provide feedback if it is not satisfactory. 
+To participate in the bounty program, join the #builders-guild on Discord and ask @0xLarry#9659 for the Builder role. Once the Builder role is acquired we can review any submission. To submit a solution to a bounty, fork the repository and create a merge request. The development Team at FraktHQ will review the submission and provide feedback if it is not satisfactory. 
 
 Rewards
 The individual(s) who successfully complete the bounty will receive $USDC for their efforts. If multiple people contribute to the bounties completion, multiple people will be rewarded based on merit at the teams discretion. In order to receive $USDC for the work done, all requirements on the bounty contract must be met.
@@ -17,3 +17,5 @@ The bounty program will be run through the #builders-guild in this discord serve
 
 Community Suggestions
 We will be accepting suggestions for bounties in the #bounty-suggestions channel. We plan to automate this process eventually by adding a discord bot to automatically accept solutions that show interest with other community members. 
+
+https://github.com/0xlarry/Frakt-HQ-Bounties
